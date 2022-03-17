@@ -1,0 +1,17 @@
+========================================================== COMANDOS ==========================================================
+
+° npm install express --save: Comando utilizado para instalar la última versión de Express.
+
+° npm install -g express-generator: Comando utilizado para montar la estructura de un proyecto de Node JS.
+
+° express --view=ejs: Comando utilizado para crear la estructura por medio de las plantillas EJS.
+
+° npm install: Comando utilizado para descargar las dependencias requeridas en el proyecto.
+
+° npm install nodemon -g: Comando utilizado para instalar la última versión de Nodemon.
+
+° npm install mysql: Comando utilizado para instalar las dependencias de conexión con el SGBD MySQL.
+
+° npm install body-parser -g: Comando utilizado para instalar la última versión de body parser. Útil para la recepción de datos.
+
+° nodemon start: Comando utilizado para correr el servidor de Node JS. El servidor corre por defecto en el navegador con la dirección localhost:3000

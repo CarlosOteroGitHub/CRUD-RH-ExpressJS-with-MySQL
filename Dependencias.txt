@@ -1,0 +1,29 @@
+========================================================== DEPENDENCIAS UTILIZADAS ==========================================================
+
+° Microsoft Windows 10.
+
+° Google Chrome.
+
+° SublimeText.
+
+° HTML.
+
+° Bootstrap.
+
+° JavaScript.
+
+° Servidor Web XAMPP.
+
+° MySQL.
+
+° ExpressJS.
+
+° Plantillas EJS.
+
+° JSON.
+
+° NodeJS.
+
+° NPM.
+
+° Nodemon.
